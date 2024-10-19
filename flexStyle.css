@@ -1,0 +1,29 @@
+/* -----------------navbar------------------ */
+.container-1{
+    display: flex;
+    justify-content: space-around;
+}
+/* .navbar{
+    display: flex;
+    justify-content: space-between;
+} */
+/* -----------------button-section---------------- */
+.button-section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+/* -------------img-sectin---------------------------  */
+.img-section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.para-1{
+    width: 40%;
+}
+
+.img-section div p{
+    margin-left: 80px;
+}
